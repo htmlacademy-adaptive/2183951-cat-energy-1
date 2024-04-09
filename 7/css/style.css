@@ -2128,6 +2128,9 @@ html {
     width: 169px;
   }
 }
+.card__link img {
+  object-fit: cover;
+}
 @media (min-width: 768px) {
   .card__link img {
     display: block;
